@@ -55,6 +55,12 @@ main div {
   text-align: center;
 }
 
+.empanada{
+  width: 250px;
+  border:#44150d 3px solid;
+  border-radius: 10%;
+}
+
 
 footer {
   padding: 20px;
