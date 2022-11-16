@@ -59,6 +59,11 @@ main div {
   width: 250px;
   border:#44150d 3px solid;
   border-radius: 10%;
+  margin-bottom: 20px;
+  transition: all 2s ease;
+}
+.empanada:hover{
+  transform: scale(1.1, 1.1)
 }
 
 
